@@ -1,0 +1,7 @@
+# Ignorar archivos compilados
+*.class
+*.o
+*.exe
+
+# Ignorar archivos de configuración
+*.conf
